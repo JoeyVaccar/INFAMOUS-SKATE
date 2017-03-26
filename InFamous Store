@@ -1,0 +1,38 @@
+<html>
+<head> 
+<title> Infamous Skate Store Page </title>
+</head>
+<body>
+<table width="100%" border="1">
+	<tr>
+	    <td width="100%" align="center" colspan = "2" bgcolor="#7a7d82" id="logoedge">
+	    	<a><font size="7"><font color="#00EFAB">IN<font color="white">FAMOUS SKATE Store Page</a>
+        </td>    
+    </tr>
+    <tr>
+    	<td width="50%" align="center">
+        	<a href ""><img src="images/Skateboard.jpg" width="100%" height="100%"/><font size ="5">BOARD</a>
+		<button type="button" onclick="alert('Added to Cart')">Add to Cart</button>
+		<p><font size ="3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed justo id nisi euismod imperdiet a sed massa. Sed non diam nisl. Duis malesuada pellentesque ipsum, eget auctor mauris lobortis nec. Vestibulum eget orci sollicitudin, vehicula orci viverra, laoreet dui. Suspendisse tellus elit, pulvinar in egestas eu, eleifend vitae ligula.</p>
+
+        </td>
+        <td width="50%" align="center">
+        	<a href ""><img src="http://www.theadairgroup.com/images/Assorted_Bright_T_Shirts_large.jpg" width="100%" height="40%"/><font size ="5"> SHIRT</a>
+		<button type="button" onclick="alert('Added to Cart')">Add to Cart</button>
+       	         <p><font size ="3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed justo id nisi euismod imperdiet a sed massa. Sed non diam nisl. Duis malesuada pellentesque ipsum, eget auctor mauris lobortis nec. Vestibulum eget orci sollicitudin, vehicula orci viverra, laoreet dui. Suspendisse tellus elit, pulvinar in egestas eu, eleifend vitae ligula.</p>
+	 </td>
+    </tr>
+<!--Change Image and title, reframe to size-->
+    <tr>
+    	<td width="50%" align="center">
+        	<a href ""><img src="images/Sweatshirt.jpg" width="100%" height="50%"/><font size ="5">SWEATSHIRT</a>
+		<button type="button" onclick="alert('Added to Cart')">Add to Cart</button>
+		<p><font size ="3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed justo id nisi euismod imperdiet a sed massa. Sed non diam nisl. Duis malesuada pellentesque ipsum, eget auctor mauris lobortis nec. Vestibulum eget orci sollicitudin, vehicula orci viverra, laoreet dui. Suspendisse tellus elit, pulvinar in egestas eu, eleifend vitae ligula.</p>
+        </td>
+        <td width="50%" align="center">
+        	<a href ""><img src="images/Concept.jpg" width="100%" height="100%"/><font size ="5"> CONCEPT BOARD</a>
+		<button type="button" onclick="alert('Added to Cart')">Add to Cart</button>
+		<p><font size ="3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed justo id nisi euismod imperdiet a sed massa. Sed non diam nisl. Duis malesuada pellentesque ipsum, eget auctor mauris lobortis nec. Vestibulum eget orci sollicitudin, vehicula orci viverra, laoreet dui. Suspendisse tellus elit, pulvinar in egestas eu, eleifend vitae ligula.</p>
+        </td>
+    </tr>
+</body>
